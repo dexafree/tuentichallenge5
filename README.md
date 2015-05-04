@@ -10,7 +10,7 @@ I solved the Challenges 1 to 8, skipped the 9th and also solved the 10.
 1. Python
 2. C
 3. Python
-4. Groovy
+4. Java
 5. Groovy
 6. Groovy
 7. Groovy
