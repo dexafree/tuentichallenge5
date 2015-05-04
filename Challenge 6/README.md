@@ -10,44 +10,7 @@ The best airscrews are those whose pieces are of the highest possible quality. T
 
 To help the engineers, we want to develop a program that determines where to position the axis of the airscrew. This position must give the best quality when the sheet is cut. Note that, once the position of the axis has been set, the machine is only capable of cutting the pieces as depicted in the following figure (they cannot be rotated).
 
-![](https://contest.tuenti.net/resources/img/schema.png)
-
-<div>
-<div style="width:50%;float:left">
-<img src="resources/img/schema.png" alt="schema" style="display:block">
-</div>
-<div style="width:50%;float:right" align="center">
-<table style="float:top">
-<tbody><tr>
-<td>1</td><td>4</td><td bgcolor="red">2</td><td bgcolor="red">6</td><td>8</td><td>1</td><td>2</td>
-</tr>
-<tr>
-<td>7</td><td>2</td><td bgcolor="red">9</td><td bgcolor="red">1</td><td>8</td><td>4</td><td>4</td>
-</tr>
-<tr>
-<td bgcolor="aqua">4</td><td bgcolor="aqua">2</td><td>3</td><td>3</td><td bgcolor="lightgray">8</td><td>3</td><td>1</td>
-</tr>
-<tr>
-<td bgcolor="aqua">8</td><td bgcolor="aqua">8</td><td>1</td><td>1</td><td>5</td><td bgcolor="red">5</td><td bgcolor="red">1</td>
-</tr>
-<tr>
-<td>7</td><td>3</td><td bgcolor="lightgray">3</td><td>1</td><td>7</td><td bgcolor="red">1</td><td bgcolor="red">3</td>
-</tr>
-<tr>
-<td>1</td><td>4</td><td>2</td><td bgcolor="aqua">6</td><td bgcolor="aqua">8</td><td>1</td><td>2</td>
-</tr>
-<tr>
-<td>7</td><td>2</td><td>9</td><td bgcolor="aqua">1</td><td bgcolor="aqua">8</td><td>4</td><td>4</td>
-</tr>
-<tr>
-<td>1</td><td>4</td><td>2</td><td>6</td><td>8</td><td>1</td><td>2</td>
-</tr>
-<tr>
-<td>7</td><td>2</td><td>9</td><td>1</td><td>8</td><td>4</td><td>4</td>
-</tr>
-</tbody></table>
-</div>
-</div>
+![](http://i.imgur.com/lbbcu9N.jpg)
 
 
 For instance, the quality of the airscrew obtained if we choose the position 4,2 for the axis and a length of square k=2:
