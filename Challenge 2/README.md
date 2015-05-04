@@ -3,11 +3,11 @@
 [LINK TO ORIGINAL](https://contest.tuenti.net/Challenges?id=2)
 
 A composite number is a positive integer that has at least one positive divisor other than one or the number itself. In other words, a composite number is any positive integer greater than one that is not a prime number.
-For example, 14 = 2*7 and 18 = 2*3*3 are composite numbers.
+For example, 14 = 2\*7 and 18 = 2\*3\*3 are composite numbers.
 
 We will say a number is "almost prime" if it has exactly two (not necessarily distinct) prime factors.
 
-For example, the following numbers are almost prime: 6 = 2*3, 25 = 5*5. And the following numbers are not: 17 (prime), 81 = 3*3*3*3.
+For example, the following numbers are almost prime: 6 = 2\*3, 25 = 5\*5. And the following numbers are not: 17 (prime), 81 = 3\*3\*3\*3.
 
 Please help us get an idea about how many almost prime numbers there are in certain integer intervals.
 

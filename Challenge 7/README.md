@@ -64,4 +64,4 @@ PIGGY BAMBI
 17
 ```
 
-Barbara is the chosen one! She gets 7 points because she likes naughty, dirty games (A) and 5*2 = 10 points because Colleen and Peggy like to go shopping and they have no direct or indirect connection through friends to Barbara (E). Mindy got 12 points, Colleen 15, Piggy 11 and Bambi 15.
+Barbara is the chosen one! She gets 7 points because she likes naughty, dirty games (A) and 5\*2 = 10 points because Colleen and Peggy like to go shopping and they have no direct or indirect connection through friends to Barbara (E). Mindy got 12 points, Colleen 15, Piggy 11 and Bambi 15.
