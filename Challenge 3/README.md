@@ -2,43 +2,32 @@
 
 [LINK TO ORIGINAL](https://contest.tuenti.net/Challenges?id=3)
 
-A composite number is a positive integer that has at least one positive divisor other than one or the number itself. In other words, a composite number is any positive integer greater than one that is not a prime number.
-For example, 14 = 2*7 and 18 = 2*3*3 are composite numbers.
+As you may have already heard, archeologists working on Samos have made a fascinating discovery. It seems that Pythagoreans had a very intriguing daily ceremony: each of them selected one of the first 25 prime numbers, they multiplied those primes that were chosen and wrote down the result on a rock. They repeated this same routine for almost 100 years! We have scanned the rock and you can find the numbers here.
 
-We will say a number is "almost prime" if it has exactly two (not necessarily distinct) prime factors.
-
-For example, the following numbers are almost prime: 6 = 2*3, 25 = 5*5. And the following numbers are not: 17 (prime), 81 = 3*3*3*3.
-
-Please help us get an idea about how many almost prime numbers there are in certain integer intervals.
+The archeologists heading this research have put out an international call to analyze these numbers, as they believe that extremely valuable historical information can be extracted from those numbers. Specifically, they want to know which prime numbers were most popular in different time periods. Please help us to make this discovery!
 
 ### Input
 
-The first line contains an integer T, the number of test cases. T lines follow, containing two integers each: A and B, separated by a space.
+The first line contains the number of cases.
+The rest of the file contains 1 line per case, containing 2 numbers: the 0-indexed beginning (inclusive) and end (exclusive) of the time period to be checked.
 
 ### Output
 
-For each test case, print the number of almost prime numbers P that verify A ≤ P ≤ B.
+N lines each containing the number of repetitions of the most popular prime followed by the most popular prime. If there is more than one number with the same number of repetitions, all of them should appear, in ascending order, separated by spaces.
 
-### Constraints
-
-```
-1 ≤ T ≤ 100
-1 ≤ A ≤ B ≤ 10^8
-```
-
-### Sample input
+### Sample Input
 
 ```
 2
-1 10
-10 20
+0 1
+0 2
 ```
 
-### Sample output
+### Sample Output
 
 ```
-4
-3
+11 7 11 41 71
+21 11
 ```
 
 ---
